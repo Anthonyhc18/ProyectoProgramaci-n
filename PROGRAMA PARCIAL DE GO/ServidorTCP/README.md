@@ -20,3 +20,7 @@ ServidorTCP/
 │   └── storage/
 │       └── memory.go        # Almacenamiento seguro en memoria con sync.Mutex
 └── go.mod                   # Definición del módulo (parcialgo)
+
+## 🎥 Video de Demostración
+Puedes ver la ejecución y explicación del proyecto en el siguiente enlace:
+https://drive.google.com/file/d/1tTpz_YyDOkplSZrAoohd11BtmVi4joNY/view?usp=sharing
